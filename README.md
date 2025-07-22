@@ -1,6 +1,9 @@
 # WatorPlus 🐠🦈
+## Aim of the project 🎯
+The goal of the project is to apply the principles of the design of a system and its implementation studied during the course.
 
-## Description
+The project consists in building an ecosystem simulation and visualization using the Matplotlib library (which in turn uses the Numpy library), with the aim of extending the functionalities of the existing software .
+## Description 📝
 An extended Wa‑Tor predator–prey simulation on a continuous toroidal grid.  
 **Objectives:**  
 - Model interactions between sharks, fish, drifting jellyfish (toxic hazards) and regrowing kelp 🌊  
